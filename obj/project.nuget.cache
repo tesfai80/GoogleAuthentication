@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9tNDginS4nPYKB1H1nPZ+EsP/rOW6afdS4r51QNzONf8ezf6LWoRbgWALaDbg9hGFlcZC67PvHlY7OSmlny7Pw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tesfa\\Desktop\\Repo\\GoogleAuth\\GoogleAuth.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tesfa\\.nuget\\packages\\microsoft.aspnetcore.authentication.google\\5.0.13\\microsoft.aspnetcore.authentication.google.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
